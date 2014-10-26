@@ -1,0 +1,15 @@
+*.meta
+ShaderForge/
+NGUI/
+Standard Assets/
+Nature/Trees/Basicmaterials/tree_bark.psd
+Nature/
+Models/
+Physic Materials/
+Materials/
+Textures/
+Sound/
+Scenes/
+Terrains/
+Prefabs/
+New Terrain.asset
